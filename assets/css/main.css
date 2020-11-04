@@ -6298,6 +6298,13 @@ background-color: #555;
     display: flex;
     justify-content: center;
   }
+.product-info{
+  margin-top: 12%;
+  margin-right: -12px;
+}
+.new-product-title {
+  margin-left: 10px;
+}
 }
 
 
