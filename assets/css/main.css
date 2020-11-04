@@ -6267,9 +6267,15 @@ background-color: #555;
   display: flex;justify-content: space-around;
 }
 
+.vahid{
+  display:none;
+}
 
-
-
+@media only screen and (max-width: 866px) {
+  .vahid {
+    display: block;
+  }
+}
 
 
 @media (max-width:866px) {
@@ -6305,7 +6311,14 @@ background-color: #555;
 .new-product-title {
   margin-left: 10px;
 }
+
+/* .vahid{
+  display: none;
+} */
+
+
 }
+
 
 
 @media screen and (max-width: 767px){
